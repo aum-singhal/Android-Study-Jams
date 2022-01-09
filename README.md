@@ -21,6 +21,6 @@ The App has a very simple and interactive interface which helps the user to add 
 
 ### Application Link & Future Scope :
 
-The app is currently in the Alpha testing phase, You can access the app : [YOUR APP LINK HERE](either Github link or Google Play store link of published app or .apk file).
+The app is currently in the Alpha testing phase, You can access the app [on this Link](https://github.com/aum-singhal/Android-Study-Jams/blob/main/Food%20Service.apk)
 
-Once the app is fully tested and functional in GNITS institute, we plan to talk to neighboring colleges also to propose this app idea and collaborate with them on this transportation service. We aim that by next year most of the colleges in our district will use Bus tracking apps to check out their bus routes and be informed all the time. Also we are planning to include emergency SOS features for students traveling in busses if they are stuck somewhere.
+Once the app is fully tested and functional, we are planning to connect with different NGOs also so that we can cover up those areas also which are not connected to internet, specially the slum areas. We are also planning to add more features in the coming future and to host the app on Google Play Store too.
