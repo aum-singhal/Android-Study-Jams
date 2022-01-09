@@ -21,6 +21,6 @@ The App has a very simple and interactive interface which helps the user to add 
 
 ### Application Link & Future Scope :
 
-The app is currently in the Alpha testing phase, You can access the app [on this Link](https://github.com/aum-singhal/Android-Study-Jams/blob/main/Food%20Service.apk)
+The app is currently in the Alpha testing phase, APK file of the application can be accessed [on this Link](https://github.com/aum-singhal/Android-Study-Jams/blob/main/Food%20Service.apk)
 
 Once the app is fully tested and functional, we are planning to connect with different NGOs also so that we can cover up those areas also which are not connected to internet, specially the slum areas. We are also planning to add more features in the coming future and to host the app on Google Play Store too.
